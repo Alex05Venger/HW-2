@@ -18,3 +18,20 @@ body{
     font-family:var(--primary-font)
     color:var(var(--dark-cl))
 }
+.list,ul,ol{
+    list-style:none;
+}
+.link,a{
+    text-decoration: none;
+}
+.btn,button{
+    font-family: inherit;
+    cursor: pointer;
+}
+.web{
+    color: var(--web-cl);
+    font-family:var(--secondary-font);
+    display: flex;
+        width: 44px;
+        height: 21px;
+}
