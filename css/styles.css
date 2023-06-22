@@ -2,18 +2,19 @@
     --primary-font:'Roboto', sans-serif;
     --secondary-font:'Raleway',sans-serif;
 
-    --web-cl:#4D5AE5
-    --ocean-cl:#404BBF
-    --navy-blue-cl:#2E2F42
-    --green-cl:#31D0AA
-    --slate-cl:#8F8E99
-    --corn-cl:#E7E9FC
-    --clud-cl:#F4F4FD
-    --nb-mpdal-cl:#2E2F49
-    --white-cl:#FFFFFF
-    --diary-cl:#FCFCFC
+    --web-cl:#4D5AE5;
+    --ocean-cl:#404BBF;
+    --navy-blue-cl:#2E2F42;
+    --green-cl:#31D0AA;
+    --slate-cl:#8F8E99;
+    --corn-cl:#E7E9FC;
+    --clud-cl:#F4F4FD;
+    --nb-mpdal-cl:#2E2F49;
+    --white-cl:#FFFFFF;
+    --diary-cl:#FCFCFC;
+    --dark-cl:#111111;
 }
 body{
     font-family:var(--primary-font)
-    color:var( )
+    color:var(var(--dark-cl))
 }
