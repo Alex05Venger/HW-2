@@ -29,7 +29,7 @@ body{
     font-family: inherit;
     cursor: pointer;
 }
-.logo-p link{
+.web link{
     font-family:'Raleway';
     font-weight: 800;
     font-size: 18px;
@@ -38,7 +38,7 @@ body{
     text-transform: uppercase;
     color:#4d5ae5;
 }
-.logo.link{
+.logo-p link{
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
