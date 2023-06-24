@@ -153,7 +153,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.styd{
+.styd.port.cont{
 letter-spacing: 0.02em;
 color: #2e2f42;
 font-weight: 500;
