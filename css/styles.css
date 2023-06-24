@@ -156,6 +156,9 @@ body{
 .styd{
 letter-spacing: 0.02em;
 color: #2e2f42;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
 }
 .footerprtf{
     background-color: #2e2f42;
