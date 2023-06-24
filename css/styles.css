@@ -23,7 +23,7 @@ body{
 .list{
     list-style:none;
 }
-.link,a{
+.link{
     text-decoration: none;
 }
 .btn,button{
