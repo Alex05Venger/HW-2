@@ -56,6 +56,9 @@ color: var(--navyblue, #2E2F42);
     line-height: 24px;
     letter-spacing: 0.32px;
 }
+.adress{
+    font-style: normal;
+}
 .contct{
     font-size: 16px;
         font-family: Roboto;
