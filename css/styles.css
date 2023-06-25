@@ -48,13 +48,10 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.adress link{
-    font-style: normal;
-
-}
-.contact .list{
+.adress{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-style: normal;
     color: #434455;
     :hover:#404bbf;
     :focus:#404bbf;
@@ -68,6 +65,17 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+  }
+  .btn{
+    
+  }
+  .allbtn {
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
+      color: #4d5ae5;
+      background-color: #F4F4FD;
   }
   .benef{
     font-weight: 500;
@@ -111,14 +119,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455; 
-}
-.allbtn{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
 }
 .wawd{
     font-size: 36px;
