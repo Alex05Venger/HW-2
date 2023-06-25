@@ -119,9 +119,7 @@ color: var(--navyblue, #2E2F42);
         background: url(<path-to-image>), lightgray -72.845px -19px / 144.444% 112.667% no-repeat;
 }
 .teamsection{
-    width: 1440px;
-        height: 732px;
-        flex-shrink: 0;
+    
         Style background: var(--cloud, #F4F4FD);
 }
 .logo{
@@ -156,14 +154,8 @@ color: var(--navyblue, #2E2F42);
         gap: 8px;
 }
 .footer{
-    width: 1440px;
-        height: 312px;
-        flex-shrink: 0;
         background: var(--navyblue, #2E2F42);
 }
 .weare{
-    width: 1440px;
-        height: 732px;
-        flex-shrink: 0;
         background: var(--cloud, #F4F4FD);
 }
