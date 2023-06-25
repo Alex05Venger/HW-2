@@ -66,8 +66,15 @@ body{
     letter-spacing: 0.02em;
     color: #ffffff;
   }
+  .btn:hover{
+    background-color:#404BBF;
+  }
+  .btn:focus{
+    background-color: #404BBF;
+  }
   .btn{
-    
+    color: #4d5ae5;
+    background-color: #F4F4FD;
   }
   .allbtn {
       font-weight: 500;
