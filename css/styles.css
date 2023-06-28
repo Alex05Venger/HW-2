@@ -55,6 +55,12 @@ color: var(--navyblue, #2E2F42);
     line-height: 24px;
     letter-spacing: 0.32px;
 }
+.stud:hover{
+    color: #404bbf;
+}
+.stud:focus{
+    color: #404bbf;
+}
 .adress{
     font-style: normal;
 }
