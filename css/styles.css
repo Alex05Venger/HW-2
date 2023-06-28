@@ -110,18 +110,15 @@ color: var(--navyblue, #2E2F42);
         line-height: 24px;
         letter-spacing: 0.4px;
 }
-.benef{
+.strategy.punkt.dilig.techno{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.paragr.strategy.punkt.dilig.techno{
+.paragr{
     color: var(--slate, #434455);
-    
-        /* Body */
         font-size: 16px;
-
         line-height: 24px;
         letter-spacing: 0.32px;
 }
