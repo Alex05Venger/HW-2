@@ -225,6 +225,7 @@ color: var(--navyblue, #2E2F42);
 }
 .team{
     font-weight: 500;
+    background-color: #FFFFFF;
 }
 .name{
     font-weight: 500;
