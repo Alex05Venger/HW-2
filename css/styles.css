@@ -95,6 +95,7 @@ color: var(--navyblue, #2E2F42);
         cursor: pointer;
 }
 .btnhero:hover{
+    background-color: #404BBF;
     cursor: pointer;
 }
 .btnhero:focus{
