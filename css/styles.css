@@ -193,4 +193,17 @@ color: var(--navyblue, #2E2F42);
 .btnport:focus{
     color: #FFFFFF;
     background-color: #404BBF;
+    }
+.portfolio-list-item-link-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.portfolio-list-item-link-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
