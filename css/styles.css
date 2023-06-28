@@ -116,7 +116,7 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.paragr{
+.paragr.strategy.punkt.dilig.techno{
     color: var(--slate, #434455);
     
         /* Body */
@@ -166,12 +166,9 @@ color: var(--navyblue, #2E2F42);
 .name{
     border-radius: 0px 0px 4px 4px;
         background: var(--white, #FFF);
-        box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+       
 }
 .skill{
-    display: flex;
-        width: 232px;
-        flex-direction: column;
         justify-content: center;
         align-items: center;
         gap: 8px;
