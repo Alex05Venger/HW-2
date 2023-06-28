@@ -78,7 +78,7 @@ color: var(--navyblue, #2E2F42);
         /* Header 1 */
         font-size: 56px;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07;
         letter-spacing: 1.12px;
     
 }
@@ -86,6 +86,19 @@ color: var(--navyblue, #2E2F42);
     border-radius: 4px;
         background: var(--iris, #4D5AE5);
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        cursor: pointer;
+}
+.btnhero:hover{
+    cursor: pointer;
+}
+.btnhero:focus{
+    background-color: #404BBF;
 }
 .benefits{
     color: var(--navyblue, #2E2F42);
