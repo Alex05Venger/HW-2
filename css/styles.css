@@ -133,7 +133,7 @@ color: var(--navyblue, #2E2F42);
         font-size: 36px;
 
         font-weight: 700;
-        line-height: 40px;
+    line-height: 1.11
         letter-spacing: 0.72px;
         text-transform: capitalize;
 }
