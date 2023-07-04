@@ -35,6 +35,12 @@ body{
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
+.logo:hover{
+    color: #404bbf;
+}
+.logo:focus{
+    color: #404bbf;
+}
 .span{
 color:#2E2F42;
     font-size: 18px;
