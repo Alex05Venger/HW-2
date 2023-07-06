@@ -35,10 +35,10 @@ body{
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
-.con:hover{
+.contct:hover{
     color: #404bbf;
 }
-.con:focus{
+.contct:focus{
     color: #404bbf;
 }
 .span{
