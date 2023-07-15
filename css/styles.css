@@ -60,6 +60,7 @@ color: var(--navyblue, #2E2F42);
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
+    padding: 24px 0;
 }
 .stud:hover{
     color: #404bbf;
@@ -69,6 +70,8 @@ color: var(--navyblue, #2E2F42);
 }
 .adress{
     font-style: normal;
+    display: flex;
+    gap: 40px;
 }
 .contct{
     font-size: 16px;
@@ -86,7 +89,20 @@ color: var(--navyblue, #2E2F42);
         font-weight: 700;
         line-height: 1.07;
         letter-spacing: 1.12px;
-    
+        border-bottom: 1px solid #e7e9fc;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+.heddiv{
+    display: flex;
+
+}
+.containe{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 .btnhero{
         background: var(--iris, #4D5AE5);
@@ -155,6 +171,11 @@ color: var(--navyblue, #2E2F42);
          line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
+        margin-right: 76px;
+}
+.menu{
+    display: flex;
+    gap: 40px;
 }
 .studio{
     color: var(--cloud, #F4F4FD);
