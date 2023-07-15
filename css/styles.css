@@ -102,7 +102,7 @@ color: var(--navyblue, #2E2F42);
     display: flex;
 
 }
-.containe{
+.container{
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
