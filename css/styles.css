@@ -94,6 +94,7 @@ color: var(--navyblue, #2E2F42);
         line-height: 1.07;
         letter-spacing: 1.12px;
         border-bottom: 1px solid #e7e9fc;
+        max-width: 496px;
 }
 .nav{
     display: flex;
@@ -120,6 +121,10 @@ color: var(--navyblue, #2E2F42);
         letter-spacing: 0.04em;
         color: #ffffff;
         cursor: pointer;
+        min-width: 169px;
+        height: 56px;
+        border: none;
+        border-radius: 4px;
 }
 .btnhero:hover{
     background-color: #404BBF;
