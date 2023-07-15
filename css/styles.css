@@ -106,6 +106,8 @@ color: var(--navyblue, #2E2F42);
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
+
 }
 .btnhero{
         background: var(--iris, #4D5AE5);
