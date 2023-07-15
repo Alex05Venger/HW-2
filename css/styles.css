@@ -150,7 +150,7 @@ color: var(--navyblue, #2E2F42);
 
 }
 .bnflst{
-    width: calc((100% - 72px) / 4);
+    
 }
 .strategy{
     font-weight: 500;
@@ -158,6 +158,7 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 .paragr{
     color: var(--slate, #434455);
