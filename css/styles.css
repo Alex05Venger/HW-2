@@ -150,7 +150,7 @@ color: var(--navyblue, #2E2F42);
 
 }
 .bnflst{
-    
+    width: calc((100% - 72px) / 4);
 }
 .strategy{
     font-weight: 500;
