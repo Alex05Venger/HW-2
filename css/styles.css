@@ -102,6 +102,7 @@ color: var(--navyblue, #2E2F42);
 }
 .heddiv{
     display: flex;
+    margin: 0 auto;
 
 }
 .container{
@@ -141,12 +142,22 @@ color: var(--navyblue, #2E2F42);
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.4px;
+        padding: 120px 0;
+}
+.bnf{
+    display: flex;
+    gap: 24px;
+
+}
+.bnflst{
+    width: calc((100% - 72px) / 4);
 }
 .strategy{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
 }
 .paragr{
     color: var(--slate, #434455);
