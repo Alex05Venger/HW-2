@@ -70,6 +70,9 @@ color: var(--navyblue, #2E2F42);
 }
 .adress{
     font-style: normal;
+   
+}
+.adrhead{
     display: flex;
     gap: 40px;
 }
