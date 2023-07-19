@@ -34,6 +34,8 @@ body{
         line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 .contct:hover{
     color: #404bbf;
@@ -225,6 +227,7 @@ color: var(--navyblue, #2E2F42);
 }
 .footer{
         background: var(--navyblue, #2E2F42);
+        padding: 100px 0;
 }
 .weare{
         background: var(--cloud, #F4F4FD);
@@ -273,6 +276,7 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 .ourteam{
     font-size: 36px;
