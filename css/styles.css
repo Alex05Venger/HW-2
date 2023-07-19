@@ -266,6 +266,10 @@ color: var(--navyblue, #2E2F42);
     background-color: #404BBF;
     border: 1px solid transparent;
     }
+.button{
+    padding-top: 96px;
+        padding-bottom: 120px;
+}
 .portfolio-list-item-link-title{
     font-weight: 500;
     font-size: 20px;
