@@ -252,14 +252,19 @@ color: var(--navyblue, #2E2F42);
     color: #4d5ae5;
     background-color:#F4F4FD;
      cursor: pointer;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
 }
 .btnport:hover{
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
 .btnport:focus{
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
     }
 .portfolio-list-item-link-title{
     font-weight: 500;
@@ -316,4 +321,10 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+}
+.pflist{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px;
 }
