@@ -275,6 +275,9 @@ color: var(--navyblue, #2E2F42);
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    
+}
+.portfolio-list-item-link link{
     width: calc((100% - 48px) / 3);
 }
 
