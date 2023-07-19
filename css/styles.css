@@ -285,6 +285,8 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
+    width: calc((100% - 48px) / 3);
 }
 .portfolio-list-item-link-text{
     font-size: 16px;
@@ -297,6 +299,10 @@ color: var(--navyblue, #2E2F42);
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 .pfooter{
     line-height: 1.5;
