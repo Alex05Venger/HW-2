@@ -309,4 +309,5 @@ color: var(--navyblue, #2E2F42);
 .skill{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
