@@ -87,10 +87,10 @@ body{
     color: #ffffff;
     cursor: pointer;
 }
-.hero-section-btn :hover{
+.hero-section-btn:hover{
     background-color: #404BBF;
 }
-.hero-section-btn :focus{
+.hero-section-btn:focus{
     background-color: #404BBF;
 }
 
