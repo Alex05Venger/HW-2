@@ -50,6 +50,9 @@ body{
 .header-li :focus{
     color: #404bbf;
 }
+.header-a{
+    color: #2e2f42;
+}
 .header-adress{
     font-style: normal;
 }
