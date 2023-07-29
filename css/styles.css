@@ -61,3 +61,10 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.header-adress-a:hover{
+    color: #404bbf;
+}
+.header-adress-a:focus{
+    color: #404bbf;
+}
+
